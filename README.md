@@ -1,6 +1,6 @@
 ### Merhaba, ben Begüm Kaya 👋
 
-Fırat Üniversitesi **Yazılım Mühendisliği** son sınıf öğrencisiyim. **Yapay zeka** ve **LLM** tabanlı uygulamalar en büyük ilgi alanım; bu alandaki fikirleri **web ve mobil** projelere dönüştürerek geliştiriyorum. **Microsoft Türkiye** ve **Mega Yazılım** dahil farklı pozisyonlarda proje geliştirme deneyimi edindim.
+Fırat Üniversitesi **Yazılım Mühendisliği** son sınıf öğrencisiyim. **Yapay zeka** tabanlı uygulamalar en büyük ilgi alanım; bu alandaki fikirleri **web ve mobil** projelere dönüştürerek geliştiriyorum. **Microsoft Türkiye** ve **Mega Yazılım** dahil farklı pozisyonlarda proje geliştirme deneyimi edindim.
 
 **Şu an üzerinde çalıştıklarım:**
 - 🏢 **Mega Yazılım**'da Software Developer Intern olarak kurumsal adres yönetim sisteminin masaüstü, web ve mobil sürümleri
@@ -19,8 +19,8 @@ Fırat Üniversitesi **Yazılım Mühendisliği** son sınıf öğrencisiyim. **
 
 **Açık olduğum konular:**
 - staj ve junior geliştirici fırsatları,
-- full-stack, mobil ve yapay zeka / LLM projeleri,
-- açık kaynak projelerde iş birliği.a
+- yapay zeka, web ve mobil projeleri,
+- açık kaynak projelerde iş birliği.
 
 ## Yetenekler:
 
