@@ -5,7 +5,6 @@ Fırat Üniversitesi **Yazılım Mühendisliği** son sınıf öğrencisiyim. **
 **Şu an üzerinde çalıştıklarım:**
 - 🏢 **Mega Yazılım**'da Software Developer Intern olarak kurumsal adres yönetim sisteminin masaüstü, web ve mobil sürümleri
 - 📄 **ProteaCV**: Yüklenen CV'nin kalitesini değerlendiren ve CV'ye uygun iş ilanlarını listeleyen platform *(geliştirme aşamasında)*
-- 🤖 Veri gizliliği odaklı, çevrimdışı çalışan RAG tabanlı yapay zeka asistanları
 
 **Deneyim:**
 - **Mega Yazılım**: Software Developer Intern *(07/2026 – Devam ediyor)*
